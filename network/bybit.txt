@@ -1,0 +1,372 @@
+# use CTRL + F to search
+
+Symbol: AGLD | Network: ERC20 | Withdrawal fee: 6.76
+Symbol: MATIC | Network: MATIC | Withdrawal fee: 0.1
+Symbol: MATIC | Network: ERC20 | Withdrawal fee: 10
+Symbol: MATIC | Network: BSC (BEP20) | Withdrawal fee: 1
+Symbol: AGLA | Network: ERC20 | Withdrawal fee: 50
+Symbol: AGLA | Network: SOL | Withdrawal fee: 10
+Symbol: APT | Network: APTOS | Withdrawal fee: 0.01
+Symbol: DFI | Network: ERC20 | Withdrawal fee: 12
+Symbol: ZAM | Network: ERC20 | Withdrawal fee: 400
+Symbol: ZAM | Network: BSC (BEP20) | Withdrawal fee: 6
+Symbol: STG | Network: ERC20 | Withdrawal fee: 5
+Symbol: SHIB | Network: ERC20 | Withdrawal fee: 360000
+Symbol: SHIB | Network: BSC (BEP20) | Withdrawal fee: 1500
+Symbol: KDA | Network: KDA | Withdrawal fee: 0.1
+Symbol: DFL | Network: SOL | Withdrawal fee: 80
+Symbol: NEAR | Network: NEAR | Withdrawal fee: 0.01
+Symbol: HNT | Network: HNT | Withdrawal fee: 0.05
+Symbol: RLTM | Network: ERC20 | Withdrawal fee: 50
+Symbol: STX | Network: STX | Withdrawal fee: 2
+Symbol: ZBC | Network: SOL | Withdrawal fee: 20
+Symbol: DRIV | Network: BSC (BEP20) | Withdrawal fee: 50
+Symbol: LFW | Network: BSC (BEP20) | Withdrawal fee: 2.5
+Symbol: DGB | Network: DGB | Withdrawal fee: 0.2
+Symbol: ZRX | Network: ERC20 | Withdrawal fee: 27
+Symbol: MDAO | Network: BSC (BEP20) | Withdrawal fee: 2
+Symbol: BCH | Network: Bitcoin Cash | Withdrawal fee: 0.01
+Symbol: CAKE | Network: BSC (BEP20) | Withdrawal fee: 0.016
+Symbol: OMG | Network: ERC20 | Withdrawal fee: 2.01
+Symbol: JST | Network: TRC20 | Withdrawal fee: 50
+Symbol: CEL | Network: ERC20 | Withdrawal fee: 9.14
+Symbol: HOT | Network: ERC20 | Withdrawal fee: 2400
+Symbol: BANA | Network: ERC20 | Withdrawal fee: 1000
+Symbol: SUN | Network: TRC20 | Withdrawal fee: 10
+Symbol: GMT | Network: SOL | Withdrawal fee: 0.25
+Symbol: GMT | Network: BSC (BEP20) | Withdrawal fee: 1
+Symbol: BTC | Network: BTC | Withdrawal fee: 0.0002
+Symbol: TWT | Network: BSC (BEP20) | Withdrawal fee: 0.2
+Symbol: AR | Network: AR | Withdrawal fee: 0.5
+Symbol: ARB | Network: Arbitrum One | Withdrawal fee: 0.3
+Symbol: GMX | Network: ARBI | Withdrawal fee: 0.005
+Symbol: GMX | Network: AVAXC | Withdrawal fee: 0.01
+Symbol: XETA | Network: AVAXC | Withdrawal fee: 20
+Symbol: BTG | Network: BTG | Withdrawal fee: 0.001
+Symbol: PSTAKE | Network: ERC20 | Withdrawal fee: 40
+Symbol: LGX | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: MIX | Network: ERC20 | Withdrawal fee: 3000
+Symbol: MIX | Network: BSC (BEP20) | Withdrawal fee: 200
+Symbol: BTT | Network: TRC20 | Withdrawal fee: 3000000
+Symbol: WEMIX | Network: KLAY | Withdrawal fee: 1
+Symbol: WEMIX | Network: WEMIX | Withdrawal fee: 1
+Symbol: ONE | Network: ONE | Withdrawal fee: 0.002
+Symbol: ANKR | Network: ERC20 | Withdrawal fee: 130
+Symbol: GSTS | Network: BSC (BEP20) | Withdrawal fee: 3
+Symbol: SUSHI | Network: ERC20 | Withdrawal fee: 2.3
+Symbol: MPLX | Network: SOL | Withdrawal fee: 1.4
+Symbol: ALGO | Network: ALGO | Withdrawal fee: 0.01
+Symbol: FLR | Network: FLR | Withdrawal fee: 0.01
+Symbol: GNS | Network: MATIC | Withdrawal fee: 0.3
+Symbol: GNS | Network: Arbitrum One | Withdrawal fee: 0.3
+Symbol: SC | Network: SC | Withdrawal fee: 1
+Symbol: SD | Network: ERC20 | Withdrawal fee: 5
+Symbol: WBTC | Network: ERC20 | Withdrawal fee: 0.0006
+Symbol: T | Network: ERC20 | Withdrawal fee: 100
+Symbol: BABYDOGE | Network: BSC (BEP20) | Withdrawal fee: 400000000
+Symbol: THN | Network: ERC20 | Withdrawal fee: 3000
+Symbol: CUSD | Network: CELO | Withdrawal fee: 1
+Symbol: ACA | Network: ACA | Withdrawal fee: 0.1
+Symbol: MANA | Network: ERC20 | Withdrawal fee: 10
+Symbol: ACH | Network: ERC20 | Withdrawal fee: 120
+Symbol: ACH | Network: BSC (BEP20) | Withdrawal fee: 5
+Symbol: RSS3 | Network: ERC20 | Withdrawal fee: 60
+Symbol: XCAD | Network: ERC20 | Withdrawal fee: 2.5
+Symbol: BEL | Network: BSC (BEP20) | Withdrawal fee: 0.2
+Symbol: BEL | Network: ERC20 | Withdrawal fee: 10
+Symbol: JUV | Network: CHZ | Withdrawal fee: 1
+Symbol: MINA | Network: MINA | Withdrawal fee: 0.5
+Symbol: ACM | Network: CHZ | Withdrawal fee: 1
+Symbol: CO | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: CO | Network: ERC20 | Withdrawal fee: 50
+Symbol: ACS | Network: SOL | Withdrawal fee: 80
+Symbol: STAT | Network: Klaytn | Withdrawal fee: 2
+Symbol: STAT | Network: ERC20 | Withdrawal fee: 0
+Symbol: MKR | Network: ERC20 | Withdrawal fee: 0.0095
+Symbol: VPAD | Network: ERC20 | Withdrawal fee: 17.5
+Symbol: WOO | Network: ERC20 | Withdrawal fee: 14
+Symbol: ICP | Network: ICP | Withdrawal fee: 0.006
+Symbol: LIS | Network: NEAR | Withdrawal fee: 10
+Symbol: PRIMAL | Network: STEP | Withdrawal fee: 10
+Symbol: PRIMAL | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: BLUR | Network: ERC20 | Withdrawal fee: 10
+Symbol: REN | Network: ERC20 | Withdrawal fee: 40
+Symbol: STRM | Network: BSC (BEP20) | Withdrawal fee: 2
+Symbol: MCRT | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: 3P | Network: BSC (BEP20) | Withdrawal fee: 1000000
+Symbol: ADA | Network: ADA | Withdrawal fee: 2
+Symbol: ICX | Network: ICX | Withdrawal fee: 0.2
+Symbol: ZEN | Network: ZEN | Withdrawal fee: 0.002
+Symbol: PAXG | Network: ERC20 | Withdrawal fee: 0.015
+Symbol: DOGE | Network: Dogecoin | Withdrawal fee: 5
+Symbol: HBAR | Network: HBAR | Withdrawal fee: 1
+Symbol: GPT | Network: BSC (BEP20) | Withdrawal fee: 5
+Symbol: GPT | Network: ERC20 | Withdrawal fee: 50
+Symbol: RVN | Network: RVN | Withdrawal fee: 1
+Symbol: ELT | Network: ERC20 | Withdrawal fee: 650
+Symbol: SYNR | Network: ERC20 | Withdrawal fee: 300
+Symbol: WAVES | Network: Waves | Withdrawal fee: 0.002
+Symbol: CHZ | Network: ERC20 | Withdrawal fee: 35
+Symbol: INTER | Network: CHZ | Withdrawal fee: 1
+Symbol: ROND | Network: MATIC | Withdrawal fee: 1
+Symbol: XRP | Network: XRP | Withdrawal fee: 0.25
+Symbol: JASMY | Network: ERC20 | Withdrawal fee: 141
+Symbol: FLOKI | Network: BSC (BEP20) | Withdrawal fee: 10000
+Symbol: FLOKI | Network: ERC20 | Withdrawal fee: 300000
+Symbol: FIDA | Network: SOL | Withdrawal fee: 1
+Symbol: SAND | Network: ERC20 | Withdrawal fee: 7
+Symbol: MMC | Network: BSC (BEP20) | Withdrawal fee: 4
+Symbol: C98 | Network: BSC (BEP20) | Withdrawal fee: 0.079
+Symbol: PSG | Network: CHZ | Withdrawal fee: 1
+Symbol: UMA | Network: ERC20 | Withdrawal fee: 2.61
+Symbol: PSP | Network: ERC20 | Withdrawal fee: 22
+Symbol: AVA | Network: ERC20 | Withdrawal fee: 7
+Symbol: POSI | Network: BSC (BEP20) | Withdrawal fee: 0.5
+Symbol: GAL | Network: ERC20 | Withdrawal fee: 0.5
+Symbol: SCRT | Network: SCRT | Withdrawal fee: 0.1
+Symbol: GASDAO | Network: ERC20 | Withdrawal fee: 233333
+Symbol: DLC | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: SIS | Network: ERC20 | Withdrawal fee: 8.75
+Symbol: FB | Network: ERC20 | Withdrawal fee: 1
+Symbol: AFC | Network: CHZ | Withdrawal fee: 1
+Symbol: THETA | Network: THETA | Withdrawal fee: 0.12
+Symbol: ENJ | Network: ERC20 | Withdrawal fee: 10
+Symbol: OAS | Network: OAS | Withdrawal fee: 1
+Symbol: INSUR | Network: ERC20 | Withdrawal fee: 11.5
+Symbol: ESNC | Network: MATIC | Withdrawal fee: 1
+Symbol: MELOS | Network: ERC20 | Withdrawal fee: 100
+Symbol: GRT | Network: ERC20 | Withdrawal fee: 29
+Symbol: MIBR | Network: CHZ | Withdrawal fee: 1
+Symbol: NEXO | Network: ERC20 | Withdrawal fee: 6.5
+Symbol: ENS | Network: ERC20 | Withdrawal fee: 0.71
+Symbol: MOVEZ | Network: BSC (BEP20) | Withdrawal fee: 30
+Symbol: MASK | Network: ERC20 | Withdrawal fee: 0.1
+Symbol: PTU | Network: ERC20 | Withdrawal fee: 10
+Symbol: WLKN | Network: SOL | Withdrawal fee: 1
+Symbol: ORT | Network: BSC (BEP20) | Withdrawal fee: 50
+Symbol: UNI | Network: ERC20 | Withdrawal fee: 1.16
+Symbol: AAVE | Network: ERC20 | Withdrawal fee: 0.32
+Symbol: PRIME | Network: ERC20 | Withdrawal fee: 1
+Symbol: KASTA | Network: MATIC | Withdrawal fee: 0.25
+Symbol: BONK | Network: SOL | Withdrawal fee: 150000
+Symbol: PERP | Network: ERC20 | Withdrawal fee: 3.21
+Symbol: XDC | Network: XDC | Withdrawal fee: 6.5
+Symbol: DZOO | Network: ERC20 | Withdrawal fee: 100
+Symbol: MNZ | Network: BSC (BEP20) | Withdrawal fee: 20
+Symbol: YFI | Network: ERC20 | Withdrawal fee: 0.00082
+Symbol: LUNC | Network: Terra Classic | Withdrawal fee: 0
+Symbol: XTZ | Network: XTZ | Withdrawal fee: 1
+Symbol: LUNA | Network: Terra | Withdrawal fee: 0.05
+Symbol: DEVT | Network: ERC20 | Withdrawal fee: 18
+Symbol: KMON | Network: BSC (BEP20) | Withdrawal fee: 30
+Symbol: AGI | Network: ERC20 | Withdrawal fee: 15
+Symbol: AGI | Network: BSC (BEP20) | Withdrawal fee: 1.5
+Symbol: OBX | Network: AVAXC | Withdrawal fee: 10
+Symbol: OBX | Network: ERC20 | Withdrawal fee: 2000
+Symbol: GM | Network: ERC20 | Withdrawal fee: 160000
+Symbol: EOS | Network: EOS | Withdrawal fee: 0.1
+Symbol: GST | Network: SOL | Withdrawal fee: 8
+Symbol: FORT | Network: ERC20 | Withdrawal fee: 30
+Symbol: TIME | Network: BSC (BEP20) | Withdrawal fee: 0.01
+Symbol: RACA | Network: BSC (BEP20) | Withdrawal fee: 750
+Symbol: RACA | Network: ERC20 | Withdrawal fee: 15000
+Symbol: BIT | Network: ERC20 | Withdrawal fee: 8
+Symbol: BICO | Network: ERC20 | Withdrawal fee: 2.5
+Symbol: SWEAT | Network: ERC20 | Withdrawal fee: 200
+Symbol: SWEAT | Network: NEAR | Withdrawal fee: 10
+Symbol: AXL | Network: ERC20 | Withdrawal fee: 5
+Symbol: XEC | Network: XEC | Withdrawal fee: 1000
+Symbol: GCAKE | Network: ERC20 | Withdrawal fee: 10000
+Symbol: GCAKE | Network: BSC (BEP20) | Withdrawal fee: 100000
+Symbol: GCAKE | Network: MATIC | Withdrawal fee: 100000
+Symbol: SOLO | Network: XRP | Withdrawal fee: 0.3
+Symbol: PEOPLE | Network: ERC20 | Withdrawal fee: 50
+Symbol: PUMLX | Network: ERC20 | Withdrawal fee: 50
+Symbol: HVH | Network: ERC20 | Withdrawal fee: 50
+Symbol: AXS | Network: ERC20 | Withdrawal fee: 0.39
+Symbol: ZIL | Network: ZIL | Withdrawal fee: 0.2
+Symbol: CAPS | Network: ERC20 | Withdrawal fee: 600
+Symbol: CAPS | Network: BSC (BEP20) | Withdrawal fee: 20
+Symbol: XEM | Network: NEM | Withdrawal fee: 4
+Symbol: EUROC | Network: ERC20 | Withdrawal fee: 10
+Symbol: HOOK | Network: BSC (BEP20) | Withdrawal fee: 0.5
+Symbol: VRA | Network: ERC20 | Withdrawal fee: 1000
+Symbol: GALFT | Network: CHZ | Withdrawal fee: 0
+Symbol: DEFY | Network: ERC20 | Withdrawal fee: 30
+Symbol: DEFY | Network: MATIC | Withdrawal fee: 1
+Symbol: OKSE | Network: BSC (BEP20) | Withdrawal fee: 1
+Symbol: FLOW | Network: FLOW | Withdrawal fee: 0.1
+Symbol: SLG | Network: BSC (BEP20) | Withdrawal fee: 3
+Symbol: COMP | Network: ERC20 | Withdrawal fee: 0.068
+Symbol: PLAY | Network: BSC (BEP20) | Withdrawal fee: 
+Symbol: SLP | Network: ERC20 | Withdrawal fee: 439
+Symbol: HFT | Network: ERC20 | Withdrawal fee: 5
+Symbol: ID | Network: ERC20 | Withdrawal fee: 5
+Symbol: ID | Network: BSC (BEP20) | Withdrawal fee: 1.5
+Symbol: RUNE | Network: BNB (BEP2) | Withdrawal fee: 0.038
+Symbol: FCD | Network: MATIC | Withdrawal fee: 0.3
+Symbol: CMP | Network: Caduceus | Withdrawal fee: 1
+Symbol: ECOX | Network: ERC20 | Withdrawal fee: 1
+Symbol: DOT | Network: DOT | Withdrawal fee: 0.1
+Symbol: XWG | Network: BSC (BEP20) | Withdrawal fee: 30
+Symbol: SFUND | Network: BSC (BEP20) | Withdrawal fee: 0.2
+Symbol: 1INCH | Network: ERC20 | Withdrawal fee: 8.2
+Symbol: AVAX | Network: AVAX | Withdrawal fee: 0.01
+Symbol: AVAX | Network: AVAXC | Withdrawal fee: 0.02
+Symbol: TON | Network: TON | Withdrawal fee: 0.1
+Symbol: PLAYOLD | Network: BSC (BEP20) | Withdrawal fee: 3
+Symbol: GENE | Network: SOL | Withdrawal fee: 1.4
+Symbol: IZI | Network: ERC20 | Withdrawal fee: 175
+Symbol: APEX | Network: ERC20 | Withdrawal fee: 15
+Symbol: APEX | Network: Arbitrum One | Withdrawal fee: 8
+Symbol: FTM | Network: FTM | Withdrawal fee: 0.01
+Symbol: FTM | Network: ERC20 | Withdrawal fee: 10
+Symbol: EVER | Network: ERC20 | Withdrawal fee: 50
+Symbol: AZY | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: SAITAMA | Network: ERC20 | Withdrawal fee: 200
+Symbol: DOME | Network: BSC (BEP20) | Withdrawal fee: 20
+Symbol: FTT | Network: ERC20 | Withdrawal fee: 3.8
+Symbol: DPX | Network: Arbitrum One | Withdrawal fee: 0.0025
+Symbol: ATOM | Network: ATOM | Withdrawal fee: 0.005
+Symbol: BOBA | Network: ERC20 | Withdrawal fee: 8
+Symbol: GODS | Network: ERC20 | Withdrawal fee: 5.8
+Symbol: SNX | Network: ERC20 | Withdrawal fee: 1.5
+Symbol: RDNT | Network: Arbitrum One | Withdrawal fee: 1
+Symbol: MBS | Network: SOL | Withdrawal fee: 5
+Symbol: MBX | Network: Klaytn | Withdrawal fee: 1.5
+Symbol: CULT | Network: ERC20 | Withdrawal fee: 1000000
+Symbol: KOK | Network: ERC20 | Withdrawal fee: 8
+Symbol: ROSE | Network: ROSE | Withdrawal fee: 0.1
+Symbol: COT | Network: ERC20 | Withdrawal fee: 500
+Symbol: COT | Network: MATIC | Withdrawal fee: 5
+Symbol: WAXP | Network: WAX | Withdrawal fee: 2
+Symbol: GLMR | Network: GLMR | Withdrawal fee: 0.5
+Symbol: KON | Network: KON | Withdrawal fee: 0
+Symbol: GGM | Network: BSC (BEP20) | Withdrawal fee: 1.16
+Symbol: XYM | Network: XYM | Withdrawal fee: 2
+Symbol: DAI | Network: BSC (BEP20) | Withdrawal fee: 0.8
+Symbol: DAI | Network: ERC20 | Withdrawal fee: 4
+Symbol: DAI | Network: zkSync Lite | Withdrawal fee: 3
+Symbol: SOL | Network: SOL | Withdrawal fee: 0.01
+Symbol: ERTHA | Network: BSC (BEP20) | Withdrawal fee: 2
+Symbol: SON | Network: BSC (BEP20) | Withdrawal fee: 200
+Symbol: CITY | Network: CHZ | Withdrawal fee: 1
+Symbol: ETC | Network: Ethereum Classic | Withdrawal fee: 0.01
+Symbol: SOS | Network: ERC20 | Withdrawal fee: 6717850
+Symbol: PIP | Network: SOL | Withdrawal fee: 1
+Symbol: BNB | Network: BSC (BEP20) | Withdrawal fee: 0.0005
+Symbol: CGPT | Network: BSC (BEP20) | Withdrawal fee: 2
+Symbol: ETH | Network: ERC20 | Withdrawal fee: 0.0006
+Symbol: ETH | Network: Arbitrum One | Withdrawal fee: 0.0003
+Symbol: ETH | Network: BSC (BEP20) | Withdrawal fee: 0.0003
+Symbol: ETH | Network: zkSync Lite | Withdrawal fee: 0.00015
+Symbol: ETH | Network: Optimism | Withdrawal fee: 0.0003
+Symbol: WWY | Network: BSC (BEP20) | Withdrawal fee: 70
+Symbol: KLAY | Network: KLAY | Withdrawal fee: 0.01
+Symbol: CELO | Network: CELO | Withdrawal fee: 0.001
+Symbol: LRC | Network: ERC20 | Withdrawal fee: 12
+Symbol: XAVA | Network: AVAXC | Withdrawal fee: 0.2
+Symbol: CHRP | Network: BSC (BEP20) | Withdrawal fee: 50
+Symbol: QMALL | Network: BSC (BEP20) | Withdrawal fee: 1
+Symbol: SIDUS | Network: ERC20 | Withdrawal fee: 300
+Symbol: MCT | Network: ERC20 | Withdrawal fee: 20
+Symbol: CORE | Network: CORE | Withdrawal fee: 0.001
+Symbol: TAP | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: MTK | Network: SOL | Withdrawal fee: 14
+Symbol: DICE | Network: Klaytn | Withdrawal fee: 10
+Symbol: 1SOL | Network: SOL | Withdrawal fee: 52
+Symbol: FITFI | Network: AVAXC | Withdrawal fee: 2
+Symbol: FITFI | Network: STEP | Withdrawal fee: 1
+Symbol: USDT | Network: ERC20 | Withdrawal fee: 3.7
+Symbol: USDT | Network: TRC20 | Withdrawal fee: 2
+Symbol: USDT | Network: Arbitrum One | Withdrawal fee: 0.3
+Symbol: USDT | Network: SOL | Withdrawal fee: 0.3
+Symbol: USDT | Network: BSC (BEP20) | Withdrawal fee: 0.3
+Symbol: USDT | Network: zkSync Lite | Withdrawal fee: 0.3
+Symbol: USDT | Network: MATIC | Withdrawal fee: 0.3
+Symbol: USDT | Network: Optimism | Withdrawal fee: 0.3
+Symbol: USDT | Network: AVAXC | Withdrawal fee: 0.3
+Symbol: USDT | Network: OMNI | Withdrawal fee: 
+Symbol: BNT | Network: ERC20 | Withdrawal fee: 8.7
+Symbol: USDC.E | Network: AVAXC | Withdrawal fee: 1
+Symbol: POKT | Network: POKT | Withdrawal fee: 1
+Symbol: VINU | Network: BSC (BEP20) | Withdrawal fee: 10000000
+Symbol: TRVL | Network: ERC20 | Withdrawal fee: 30
+Symbol: SEOR | Network: BSC (BEP20) | Withdrawal fee: 3
+Symbol: TRX | Network: TRC20 | Withdrawal fee: 1
+Symbol: NFT | Network: TRC20 | Withdrawal fee: 30000
+Symbol: IME | Network: AVAXC | Withdrawal fee: 10
+Symbol: KCAL | Network: STEP | Withdrawal fee: 0
+Symbol: SHILL | Network: SOL | Withdrawal fee: 10
+Symbol: MV | Network: MATIC | Withdrawal fee: 0
+Symbol: MV | Network: ERC20 | Withdrawal fee: 35
+Symbol: USTC | Network: Terra Classic | Withdrawal fee: 0
+Symbol: USTC | Network: ERC20 | Withdrawal fee: 25
+Symbol: USTC | Network: BSC (BEP20) | Withdrawal fee: 1
+Symbol: MX | Network: ERC20 | Withdrawal fee: 15
+Symbol: MEE | Network: MATIC | Withdrawal fee: 10
+Symbol: DCR | Network: DCR | Withdrawal fee: 0.01
+Symbol: RAIN | Network: ERC20 | Withdrawal fee: 700
+Symbol: FAME | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: RDNTOLD | Network: Arbitrum One | Withdrawal fee: 1
+Symbol: IMX | Network: ERC20 | Withdrawal fee: 5
+Symbol: REAL | Network: SOL | Withdrawal fee: 2
+Symbol: USDT.E | Network: AVAXC | Withdrawal fee: 1
+Symbol: USDD | Network: ERC20 | Withdrawal fee: 30
+Symbol: USDD | Network: TRC20 | Withdrawal fee: 2.6
+Symbol: LTC | Network: LTC | Withdrawal fee: 0.001
+Symbol: USDC | Network: ERC20 | Withdrawal fee: 3
+Symbol: USDC | Network: SOL | Withdrawal fee: 1
+Symbol: USDC | Network: Arbitrum One | Withdrawal fee: 1
+Symbol: USDC | Network: TRC20 | Withdrawal fee: 2
+Symbol: USDC | Network: BSC (BEP20) | Withdrawal fee: 1
+Symbol: USDC | Network: zkSync Lite | Withdrawal fee: 1
+Symbol: USDC | Network: AVAXC | Withdrawal fee: 1
+Symbol: USDC | Network: MATIC | Withdrawal fee: 1
+Symbol: USDC | Network: Optimism | Withdrawal fee: 1
+Symbol: CWAR | Network: SOL | Withdrawal fee: 8
+Symbol: EGLD | Network: EGLD | Withdrawal fee: 0.001
+Symbol: NXD | Network: MATIC | Withdrawal fee: 0.3
+Symbol: SPELL | Network: ERC20 | Withdrawal fee: 812
+Symbol: STETH | Network: ERC20 | Withdrawal fee: 0.0135
+Symbol: LOOKS | Network: ERC20 | Withdrawal fee: 5
+Symbol: FXS | Network: ERC20 | Withdrawal fee: 1
+Symbol: KUNCI | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: KRL | Network: ERC20 | Withdrawal fee: 17.5
+Symbol: INJ | Network: ERC20 | Withdrawal fee: 5
+Symbol: CRV | Network: ERC20 | Withdrawal fee: 4.5
+Symbol: TRIBE | Network: ERC20 | Withdrawal fee: 15
+Symbol: DYDX | Network: ERC20 | Withdrawal fee: 2
+Symbol: AGIX | Network: ERC20 | Withdrawal fee: 6
+Symbol: ETHF | Network: ETHF | Withdrawal fee: 0.005
+Symbol: SRM | Network: ERC20 | Withdrawal fee: 3.53
+Symbol: RPL | Network: ERC20 | Withdrawal fee: 0.03
+Symbol: LING | Network: BSC (BEP20) | Withdrawal fee: 30
+Symbol: QNT | Network: ERC20 | Withdrawal fee: 0.098
+Symbol: LDO | Network: ERC20 | Withdrawal fee: 1.5
+Symbol: CRAFT | Network: AVAXC | Withdrawal fee: 0.2
+Symbol: MAGIC | Network: Arbitrum One | Withdrawal fee: 0.5
+Symbol: XLM | Network: Stellar Lumens | Withdrawal fee: 0.02
+Symbol: CBX | Network: ERC20 | Withdrawal fee: 18
+Symbol: LINK | Network: ERC20 | Withdrawal fee: 1.12
+Symbol: PLT | Network: ERC20 | Withdrawal fee: 80
+Symbol: HERO | Network: BSC (BEP20) | Withdrawal fee: 18
+Symbol: PLY | Network: ERC20 | Withdrawal fee: 300
+Symbol: QTUM | Network: QTUM | Withdrawal fee: 0.01
+Symbol: ETHW | Network: ETHW | Withdrawal fee: 0.01
+Symbol: OP | Network: Optimism | Withdrawal fee: 0.1
+Symbol: KSM | Network: KSM | Withdrawal fee: 0.21
+Symbol: FIL | Network: Filecoin | Withdrawal fee: 0.001
+Symbol: OKG | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: RNDR | Network: ERC20 | Withdrawal fee: 4
+Symbol: GALA | Network: ERC20 | Withdrawal fee: 84
+Symbol: CTC | Network: ERC20 | Withdrawal fee: 30
+Symbol: FIU | Network: BSC (BEP20) | Withdrawal fee: 10
+Symbol: BAR | Network: CHZ | Withdrawal fee: 1
+Symbol: BAT | Network: ERC20 | Withdrawal fee: 15
+Symbol: APE | Network: ERC20 | Withdrawal fee: 1
+Symbol: SSV | Network: ERC20 | Withdrawal fee: 0.06
+Symbol: TEL | Network: ERC20 | Withdrawal fee: 2404
+Symbol: MOVR | Network: MOVR | Withdrawal fee: 0.005
+Symbol: BUSD | Network: BSC (BEP20) | Withdrawal fee: 0.5
+Symbol: BUSD | Network: ERC20 | Withdrawal fee: 3
