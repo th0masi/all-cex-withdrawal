@@ -1,3 +1,5 @@
+# use CTRL + F to search
+
 Symbol: AGLD | Network: ETH | Withdrawal fee: 7.92
 Symbol: STPT | Network: ETH | Withdrawal fee: 97
 Symbol: MXN | Network: FIAT_MONEY | Withdrawal fee: 0
